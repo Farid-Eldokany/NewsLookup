@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"uk.ac.gla.dcs.bigdata.apps"},{"l":"uk.ac.gla.dcs.bigdata.studentfunctions"},{"l":"uk.ac.gla.dcs.bigdata.studentstructures"}]
